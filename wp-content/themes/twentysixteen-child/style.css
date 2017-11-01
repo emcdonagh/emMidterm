@@ -12,13 +12,11 @@ Version: 0.1.0
 /* changes All horizontal lines to #d0d0d0 and reduces thinkness */
 
 .widget,
- .comments-title,
-  .comment-reply-title
+.comments-title,
+.comment-reply-title,
+ .post-navigation  {border-top: 2px solid #d0d0d0;}
 
-{
-       border-top: 2px solid #d0d0d0;
-    
-}
+.post-navigation {border-bottom: 2px solid #d0d0d0;}
 
 /*removes Proudly powered by Wordpress line*/
 .site-info {display:none;}
