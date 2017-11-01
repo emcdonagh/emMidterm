@@ -22,3 +22,6 @@ Version: 0.1.0
 
 /*removes Proudly powered by Wordpress line*/
 .site-info {display:none;}
+
+
+h1.entry-title {font-size: 1.5em;}
