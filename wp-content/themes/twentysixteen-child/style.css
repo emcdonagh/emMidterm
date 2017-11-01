@@ -19,3 +19,6 @@ Version: 0.1.0
        border-top: 2px solid #d0d0d0;
     
 }
+
+/*removes Proudly powered by Wordpress line*/
+.site-info {display:none;}
