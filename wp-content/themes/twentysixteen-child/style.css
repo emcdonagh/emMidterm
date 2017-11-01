@@ -14,9 +14,11 @@ Version: 0.1.0
 .widget,
 .comments-title,
 .comment-reply-title,
+header.page-header,
  .post-navigation  {border-top: 2px solid #d0d0d0;}
 
 .post-navigation {border-bottom: 2px solid #d0d0d0;}
+
 
 /*removes Proudly powered by Wordpress line*/
 .site-info {display:none;}
@@ -30,3 +32,7 @@ h1.entry-title {font-size: 1.5rem;}
 
 
 footer.entry-footer {display:none;}
+
+.page-id-38 .site-header-main, .header-image, header.entry-header {display:none;}
+
+header.master-head {background-attachment: [wds id="1"];}
