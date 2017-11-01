@@ -35,9 +35,16 @@ h1.entry-title {font-size: 1.5rem;}
 
 footer.entry-footer {display:none;}
 
+/* for bonus */
+
  .page-id-38 .site-header-main,
  .page-id-38 .header-image,
-  .page-id-38  header.entry-header {display:none;}
+  .page-id-38  header.entry-header,
+  .page-id-38 .sidebar {display:none;}
+
+
+
+
 
 
 
