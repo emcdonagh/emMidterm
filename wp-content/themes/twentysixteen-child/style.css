@@ -4,6 +4,18 @@ Theme URI:
 Description: A child theme of twentysixteen
 Author: Erin McDonagh
 Author URI: 
-Template: 
+Template: twentysixteen
 Version: 0.1.0
 */
+
+
+/* changes All horizontal lines to #d0d0d0 and reduces thinkness */
+
+.widget,
+ .comments-title,
+  .comment-reply-title
+
+{
+    border-top: none;
+    
+}
