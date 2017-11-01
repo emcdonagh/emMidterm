@@ -15,7 +15,9 @@ Version: 0.1.0
 .comments-title,
 .comment-reply-title,
 header.page-header,
- .post-navigation  {border-top: 2px solid #d0d0d0;}
+ .post-navigation,
+ .post-navigation div + div {border-top: 2px solid #d0d0d0;}
+
 
 .post-navigation {border-bottom: 2px solid #d0d0d0;}
 
